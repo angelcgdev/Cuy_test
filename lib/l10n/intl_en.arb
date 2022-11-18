@@ -1,0 +1,25 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "lpUser": "User",
+    "lpUserEmpty": "Enter an User.",
+    "lpPassword": "Password",
+    "lpPasswordEmpty": "Enter a password",
+    "lpBtnLogin": "Login",
+
+    "apTitle": "About",
+    "apProduct": "Product",
+    "apModel": "Model",
+    "apDevice": "Device",
+    "apOsVersion": "OS Version",
+    "apAppVersion": "Version",
+    "apEmptyData": "Unknown",
+
+
+    "hmTitle": "Plans",
+    "hmPlanName": "Plan",
+    "hmPlanPrice": "Price",
+    "hmPlanDuration": "Duration"
+}

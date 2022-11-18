@@ -1,0 +1,21 @@
+{
+    "helloWorld": "¡Hola Mundo!",
+    "lpUser": "Usuario",
+    "lpUserEmpty": "Ingrese un Usuario.",
+    "lpPassword": "Contraseña",
+    "lpPasswordEmpty": "Ingrese su Contraseña",
+    "lpBtnLogin": "Iniciar Sesión",
+
+    "apTitle": "Acerca de",
+    "apProduct": "Producto",
+    "apModel": "Modelo",
+    "apDevice": "Dispositivo",
+    "apOsVersion": "Version de SO",
+    "apAppVersion": "Version",
+    "apEmptyData": "Desconocido",
+
+    "hmTitle": "Planes",
+    "hmPlanName": "Plan",
+    "hmPlanPrice": "Precio",
+    "hmPlanDuration": "Duración"
+}
